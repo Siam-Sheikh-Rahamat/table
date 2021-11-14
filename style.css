@@ -1,0 +1,42 @@
+h1 {
+	color: #fff;
+	background-color: tomato;
+	display: inline-block;
+	text-align: center;
+
+}
+
+table{
+	background-color: #A52A2A;
+	width: 400px;
+	font-family:
+	 "Lucida Console", "Courier New", monospace;
+	 color: #fff;
+
+}
+caption{
+	font-size: 30px;
+	color: red;
+}
+
+th{
+	color: red;
+	background-color: #0000FF;
+	font-size: 25px;
+}
+
+#break{
+	color: red;
+	background-color: #fFF;
+	font-size: 20px;
+}
+#project{
+	background-color: #FFE4C4;
+	color: #0000FF;
+
+}
+
+#subject{
+	background-color: #FF6347;
+	font-size: 20px;
+}
